@@ -26,4 +26,4 @@ fi
 bun i
 
 # Install Playwright browsers
-bun playwright install chromium
+# bun playwright install chromium
