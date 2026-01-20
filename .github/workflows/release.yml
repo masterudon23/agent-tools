@@ -24,7 +24,6 @@ jobs:
       - name: Build
         run: bun run build
 
-      # Using custom token `MY_GITHUB_TOKEN` with more access to avoid rate limiting
       - name: Create Release
         id: changeset
         uses: changesets/action@v1
@@ -34,7 +33,7 @@ jobs:
           publish: bun run scripts/publish.ts
           version: bun run scripts/version.ts
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_CONFIG_PROVENANCE: true
 
       - name: Fix formatting
