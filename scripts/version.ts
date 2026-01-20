@@ -3,7 +3,7 @@ export {};
  * Script for publishing the packages to JSR after an NPM release
  */
 
-const packages = ["core", "react", "solid"];
+const packages = ["convex-vite-plugin"];
 
 /**
  * 1. Bump versions
