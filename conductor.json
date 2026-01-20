@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "setup": "./scripts/setup-worktree.sh \"$CONDUCTOR_ROOT_PATH\""
+  }
+}
