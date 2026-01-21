@@ -19,7 +19,7 @@ export function App() {
   return (
     <div style={{ padding: "2rem", maxWidth: "600px", margin: "0 auto" }}>
       <h1>Convex Local Backend Demo</h1>
-      <p style={{ color: "#666" }}>Using convex-vite-plugin</p>
+      <p style={{ color: "#666" }}>Using Convex Backend at {import.meta.env.VITE_CONVEX_URL}</p>
 
       <form onSubmit={handleSubmit} style={{ marginBottom: "1rem" }}>
         <input
